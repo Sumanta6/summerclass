@@ -149,5 +149,5 @@ MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
 
 CSRF_TRUSTED_ORIGINS = [
-https://summerclass-5n3d.onrender.com
+'https://summerclass-5n3d.onrender.com'
 ]
